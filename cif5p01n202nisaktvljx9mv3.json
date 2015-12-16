@@ -17,7 +17,7 @@
             },
             "1443753078266.6763": {
                 "name": "backgrounds",
-                "collapsed": true
+                "collapsed": false
             },
             "1443753087749.751": {
                 "name": "terrain",
@@ -1047,7 +1047,7 @@
         {
             "interactive": true,
             "layout": {
-                "icon-image": "circle-12",
+                "text-line-height": 0.8,
                 "text-field": "{name_en}",
                 "text-font": [
                     "Crimson Bold Italic",
@@ -1072,8 +1072,7 @@
                 },
                 "text-transform": "none",
                 "visibility": "visible",
-                "text-letter-spacing": 0,
-                "text-line-height": 0.8
+                "text-letter-spacing": 0
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1118,7 +1117,6 @@
                         ]
                     ]
                 },
-                "icon-image": "circle-12",
                 "text-transform": "none",
                 "text-font": [
                     "Crimson Bold Italic",
@@ -1153,7 +1151,7 @@
         {
             "interactive": true,
             "layout": {
-                "icon-image": "circle-12",
+                "text-letter-spacing": 0.2,
                 "text-field": "{abbr}",
                 "text-font": [
                     "Meta Serif SC Offc Pro Black",
@@ -1173,8 +1171,7 @@
                     ]
                 },
                 "text-transform": "uppercase",
-                "visibility": "visible",
-                "text-letter-spacing": 0.2
+                "visibility": "visible"
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1232,7 +1229,7 @@
             "interactive": true,
             "minzoom": 5,
             "layout": {
-                "icon-image": "circle-12",
+                "visibility": "visible",
                 "text-field": "{name}",
                 "text-font": [
                     "Meta Serif SC Offc Pro Black",
@@ -1253,8 +1250,7 @@
                 },
                 "text-transform": "uppercase",
                 "text-letter-spacing": 0.5,
-                "text-max-width": 10,
-                "visibility": "visible"
+                "text-max-width": 10
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1287,7 +1283,7 @@
             "interactive": true,
             "minzoom": 3,
             "layout": {
-                "icon-image": "circle-12",
+                "text-line-height": 0.9,
                 "visibility": "visible",
                 "text-field": "{name_en}",
                 "text-font": [
@@ -1316,8 +1312,7 @@
                             14
                         ]
                     ]
-                },
-                "text-line-height": 0.9
+                }
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1342,7 +1337,7 @@
         {
             "interactive": true,
             "layout": {
-                "icon-image": "circle-12",
+                "text-line-height": 0.9,
                 "visibility": "visible",
                 "text-field": "{name_en}",
                 "text-font": [
@@ -1371,8 +1366,7 @@
                     ]
                 },
                 "text-max-width": 6,
-                "text-transform": "uppercase",
-                "text-line-height": 0.9
+                "text-transform": "uppercase"
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1405,7 +1399,7 @@
         {
             "interactive": true,
             "layout": {
-                "icon-image": "circle-12",
+                "text-line-height": 0.9,
                 "visibility": "visible",
                 "text-field": "{name_en}",
                 "text-font": [
@@ -1434,8 +1428,7 @@
                             14
                         ]
                     ]
-                },
-                "text-line-height": 0.9
+                }
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1469,7 +1462,7 @@
         {
             "interactive": true,
             "layout": {
-                "icon-image": "circle-12",
+                "visibility": "visible",
                 "text-field": "{name_en}",
                 "text-font": [
                     "Meta Serif SC Offc Pro Black Italic",
@@ -1489,8 +1482,7 @@
                     ]
                 },
                 "text-transform": "uppercase",
-                "text-letter-spacing": 0.25,
-                "visibility": "visible"
+                "text-letter-spacing": 0.25
             },
             "metadata": {
                 "mapbox:group": "1443753148043.5981"
@@ -1510,7 +1502,7 @@
     ],
     "created": "2015-09-29T18:23:32.255Z",
     "id": "cif5p01n202nisaktvljx9mv3",
-    "modified": "2015-12-16T18:24:50.553Z",
+    "modified": "2015-12-16T18:50:00.882Z",
     "owner": "mslee",
     "draft": false
 }
