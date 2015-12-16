@@ -35,13 +35,14 @@
                 "name": "admin",
                 "collapsed": true
             }
-        }
+        },
+        "mapbox:trackposition": false
     },
     "center": [
-        -114.85982463678923,
-        44.02082790042783
+        -94.02332894034062,
+        34.58058796394228
     ],
-    "zoom": 10.194716574130153,
+    "zoom": 3.8461476117305553,
     "bearing": 0,
     "pitch": 0,
     "sources": {
@@ -1509,7 +1510,7 @@
     ],
     "created": "2015-09-29T18:23:32.255Z",
     "id": "cif5p01n202nisaktvljx9mv3",
-    "modified": "2015-12-16T17:56:45.891Z",
+    "modified": "2015-12-16T18:24:50.553Z",
     "owner": "mslee",
     "draft": false
 }
