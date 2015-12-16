@@ -6,10 +6,6 @@ Vintage map style (GL) for [Mapbox Studio](https://www.mapbox.com/mapbox-studio/
 
 ## Usage
 
-From your Mapbox Studio [Styles page](https://www.mapbox.com/studio/styles/), click **New Style** button then select **Upload a style** tab. Select this `.json` file and click **Create**.
+From your Mapbox Studio [Styles page](https://www.mapbox.com/studio/styles/), click **New Style** button then select **Upload a style** tab. Select this `.json` file and click **Create**. Next, upload each `.svg` patterns from the **_assets** folder. Select texture layers in **backgrounds** and **vintage** folders and click Pattern to upload `.svg` files to your project.
 
-Next upload each `.svg` patterns from the **_assets** folder. Select texture layers in **backgrounds** and **vintage** folders and click Pattern to upload `.svg` files to your project.
-
-Use the newly created map style's `style URL` to add to your projects.
-
-Read more on how to [Create and manage map styles](https://www.mapbox.com/help/getting-started-mapbox-studio-1/#create-a-new-style) in Mapbox /help page.
+Use the newly created map style's `style URL` to add to your projects. Read more on how to [Create and manage map styles](https://www.mapbox.com/help/getting-started-mapbox-studio-1/#create-a-new-style) in Mapbox /help page.
